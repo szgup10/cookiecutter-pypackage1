@@ -3,8 +3,8 @@
   "email": "saurabh.gupta1@ingka.com",
   "github_username": "szgup10",
   "project_name": "Python Boilerplate",
-  "project_slug": "cookiecutter-pypackage1-slug",
-  "project_short_description": "cookiecutter-pypackage1-slug-desc",
+  "project_slug": "cookiecutter_pypackage1_slug",
+  "project_short_description": "cookiecutter_pypackage1_slug_desc",
   "pypi_username": "szgup10",
   "version": "0.1.0",
   "use_pytest": "n",
@@ -14,5 +14,5 @@
   "command_line_interface": ["Click", "Argparse", "No command-line interface"],
   "create_author_file": "y",
   "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"],
-  "repo_name": "cookiecutter-pypackage1-slug-repo"  
+  "repo_name": "cookiecutter_pypackage1_slug_repo"  
 }
